@@ -1,5 +1,5 @@
 [package]
-name = "terd"
+name = "forest"
 version = "0.1.0"
 authors = ["aguestuser <aguestuser@riseup.net>"]
 edition = "2018"
